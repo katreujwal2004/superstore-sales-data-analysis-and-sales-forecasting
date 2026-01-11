@@ -1,6 +1,6 @@
 
 
-# Superstore Sales Data Analysis & Sales Forecasting 📊📈
+# Superstore Sales Data Analysis & Sales Forecasting 
 
 ## Project Summary
 
